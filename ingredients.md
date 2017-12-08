@@ -4,4 +4,4 @@
 * salt
 * lime
 * garlic
-* sugar
+* olive oil
