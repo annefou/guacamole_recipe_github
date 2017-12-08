@@ -4,3 +4,5 @@
 * onion
 * salt
 * lime
+* garlic
+* cilentro
