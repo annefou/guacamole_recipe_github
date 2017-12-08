@@ -4,4 +4,4 @@
 * salt
 * lime
 * garlic
-* cilentro
+* olive oil
