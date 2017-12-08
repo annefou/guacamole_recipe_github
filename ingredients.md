@@ -1,7 +1,7 @@
 # Ingredients for Guacamole recipe
 
 * avocado
-* sugar
+* salt
 * lime
 * garlic
 * olive oil
